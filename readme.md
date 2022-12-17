@@ -20,7 +20,7 @@ The project is divided into 3 segments
 ## **3. Live link**
 Link: http://room_cleaner.surge.sh/
 
-## **4. Screenshot of the Interface**
+## **4. Screenshots of the Interface**
 
 ### Frontend Screens - User level
 ![1](https://user-images.githubusercontent.com/110824426/206792798-aee43ba4-d8b5-4479-872b-a104d2c798b1.png)
