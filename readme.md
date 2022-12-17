@@ -1,30 +1,26 @@
-## **Title: Hostel Room Cleaning Manager**
+# **Hostel Room Cleaning Manager**
 
-### Problem Statement : 
-Designed an application which hostel students can use to get their rooms cleaned on time. The current management system found it difficult to schedule cleaning services as students have varying class schedules which resulted in improper utilization of hostel room cleaning services.
-
-### Demo Link : 
-http://room_cleaner.surge.sh/
-
-### The project is divided into 3 segments
+## **1. Methodology** 
+The project is divided into 3 segments
 1. Database Schema Design
 2. Frontend of Web App
 3. Backend of Web App
 
-#### Please find all source code in this repository.
-----
-
-### ER diagram made with the help of problem statement
+ER diagram made with the help of problem statement:
 
 ![ERDiagram](https://user-images.githubusercontent.com/110824426/206792846-a1845450-730c-494f-bd01-e8139896850b.png)
 
--------
-
-### Database schema after Normalization of tables
+Database schema after Normalization of tables:
 
 ![normtable](https://user-images.githubusercontent.com/110824426/206792849-84be9296-8158-4021-a8a7-8667a0f8b2ff.png)
 
---------------
+## **2. Description**
+Designed an application which hostel students can use to get their rooms cleaned on time. The current management system found it difficult to schedule cleaning services as students have varying class schedules which resulted in improper utilization of hostel room cleaning services.
+
+## **3. Live link**
+Link: http://room_cleaner.surge.sh/
+
+## **4. Screenshot of the Interface**
 
 ### Frontend Screens - User level
 ![1](https://user-images.githubusercontent.com/110824426/206792798-aee43ba4-d8b5-4479-872b-a104d2c798b1.png)
@@ -34,8 +30,6 @@ http://room_cleaner.surge.sh/
 ![3](https://user-images.githubusercontent.com/110824426/206794089-3294b98a-9005-49e6-abfd-64645b6eebfc.png)
 
 ![4](https://user-images.githubusercontent.com/110824426/206794093-f0027e35-3c4d-4365-9b24-10e36784f626.png)
-
---------------
 
 ### Frontend Screens - Admin level
 
@@ -49,4 +43,4 @@ http://room_cleaner.surge.sh/
 
 ![10](https://user-images.githubusercontent.com/110824426/206792843-a387059b-9b0b-4b49-9a8d-08e33f2e595e.png)
 
-------------------------
+---------------
