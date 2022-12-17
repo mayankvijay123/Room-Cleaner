@@ -1,21 +1,21 @@
 # **Hostel Room Cleaning Manager**
 
-## **1. Methodology** 
+## **1. Description**
+Designed an application which hostel students can use to get their rooms cleaned on time. The current management system found it difficult to schedule cleaning services as students have varying class schedules which resulted in improper utilization of hostel room cleaning services.
+
+## **2. Methodology** 
 The project is divided into 3 segments
 1. Database Schema Design
 2. Frontend of Web App
 3. Backend of Web App
 
-ER diagram made with the help of problem statement:
+### ER diagram made with the help of problem statement:
 
 ![ERDiagram](https://user-images.githubusercontent.com/110824426/206792846-a1845450-730c-494f-bd01-e8139896850b.png)
 
-Database schema after Normalization of tables:
+### Database schema after Normalization of tables:
 
 ![normtable](https://user-images.githubusercontent.com/110824426/206792849-84be9296-8158-4021-a8a7-8667a0f8b2ff.png)
-
-## **2. Description**
-Designed an application which hostel students can use to get their rooms cleaned on time. The current management system found it difficult to schedule cleaning services as students have varying class schedules which resulted in improper utilization of hostel room cleaning services.
 
 ## **3. Live link**
 Link: http://room_cleaner.surge.sh/
@@ -42,5 +42,3 @@ Link: http://room_cleaner.surge.sh/
 ![9](https://user-images.githubusercontent.com/110824426/206792835-4f005607-37ad-4788-acdc-43fa46386d16.png)
 
 ![10](https://user-images.githubusercontent.com/110824426/206792843-a387059b-9b0b-4b49-9a8d-08e33f2e595e.png)
-
----------------
